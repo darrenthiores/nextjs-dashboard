@@ -4,6 +4,10 @@
 
 // const client = await db.connect();
 
+export default function seedsUser() {
+    
+}
+
 // async function seedUsers() {
 //   await client.sql`CREATE EXTENSION IF NOT EXISTS "uuid-ossp"`;
 //   await client.sql`
